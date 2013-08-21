@@ -3,6 +3,14 @@ IOIO_Servo_Normal
 
 IOIO Servo Normal (Android Application)
 
+## PIN MAP
+Servo 1 = PIN 3  
+Servo 2 = PIN 4  
+Servo 3 = PIN 5  
+Servo 4 = PIN 6  
+Servo 5 = PIN 7  
+Servo 6 = PIN 10  
+
 
 ![alt text](http://www.unzeen.com/github/IOIO_Servo_Normal/2013-08-21_23-52-03.png "IOIO LED")
 
