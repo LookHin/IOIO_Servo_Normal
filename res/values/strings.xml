@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO Servo Normal</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="servo_1">Servo 1</string>
+    <string name="servo_2">Servo 2</string>
+    <string name="servo_3">Servo 3</string>
+    <string name="servo_4">Servo 4</string>
+    <string name="servo_5">Servo 5</string>
+    <string name="servo_6">Servo 6</string>
+    <string name="led_0">LED 0 (On Board)</string>
+    <string name="toggle_button1">ToggleButton</string>
+    <string name="reset_to_center">Reset To Center</string>
+    <string name="set_center">Center</string>
+    
+    <string name="about">Mr.Khwanchai Kaewyos\n\n
+         
+khwanchai@gmail.com\n\n
+
+http://www.unzeen.com\n
+http://www.LookHin.com\n\n
+     </string>
+
+</resources>
