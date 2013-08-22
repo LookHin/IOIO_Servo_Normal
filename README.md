@@ -14,7 +14,7 @@ Servo 6 = PIN 10
 
 ## Screenshot
 
-![alt text](http://www.unzeen.com/github/IOIO_Servo_Normal/2013-08-21_23-52-03.png "IOIO LED")
+![alt text](http://www.unzeen.com/github/IOIO_Servo_Normal/2013-08-21_23-52-03.png?a "IOIO LED")
 
 
 ## About Us
