@@ -18,6 +18,8 @@ Servo 6 = PIN 10
 
 ![alt text](http://www.unzeen.com/github/IOIO_Servo_Normal/2013-08-22 22.42.38.jpg?a "IOIO Servo Normal")
 
+[![IOIO Servo Normal](http://img.youtube.com/vi/AsxKpegsDK0/0.jpg)](http://www.youtube.com/watch?v=AsxKpegsDK0)
+
 
 ## About Us
 Name : Khwanchai Kaewyos (LookHin)  
