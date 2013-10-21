@@ -1,7 +1,7 @@
 IOIO_Servo_Normal
 =================
 
-IOIO Servo Normal (Android Application)
+IOIO Servo Normal (Control the hardware by Android application and IOIO board)
 
 ## PIN MAP
 Servo 1 = PIN 3  
