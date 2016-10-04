@@ -1,4 +1,4 @@
-IOIO_Servo_Normal
+IOIO_Servo_Normal [No Maintenance]
 =================
 
 IOIO Servo Normal (Control the hardware by Android application and IOIO board)
